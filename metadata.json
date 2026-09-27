@@ -1,0 +1,6 @@
+{
+  "name": "Anass Core",
+  "description": "Anass Core - Le réseau social nouvelle génération avec Anass Bot, tendances et abonnements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
